@@ -10,3 +10,6 @@
  position: relative;
  bottom: -80px;
 }
+.video__iframe{
+  border: none;
+}
