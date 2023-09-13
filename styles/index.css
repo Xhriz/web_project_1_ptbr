@@ -1,1 +1,11 @@
+@import url(./Blocks/header.css);
+ @import url(./Blocks/description.css);
+ @import url(./Blocks/techniques.css);
+ @import url(./Blocks/video.css);
+ @import url(./Blocks/oakley.css);
+ @import url(./Blocks/feynman.css);
+ @import url(./Blocks/digits.css);
+ @import url(./Blocks/khan.css);
+ @import url(./Blocks/kaufman.css);
+ @import url(./Blocks/resources.css);
 @import url(./Blocks/footer.css);
