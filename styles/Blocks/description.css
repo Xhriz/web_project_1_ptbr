@@ -1,0 +1,25 @@
+.two-collumns{
+  display: flex;
+  margin:  100px auto;
+  width: 80%;
+  min-width: 784px;
+}
+.two-collumns__brief{
+  width: 80%;
+  height: 1.2px;
+  color: #2F80ED;
+  font-size: 18px;
+  font-weight: normal;
+  margin-right: 70px;
+}
+.two-collumns__main-text{
+  flex-direction: column;
+  height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}
+.two-collumns__span-accent{
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: bold;
+}

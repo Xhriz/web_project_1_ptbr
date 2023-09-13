@@ -1,0 +1,65 @@
+.footer{
+  background-color: black;
+  min-height: 350px;
+  padding-top:5px;
+}
+.footer__collumns{
+  display: flex;
+  flex-basis: 711px;
+  width: 90%;
+  position: relative;
+  margin: 0 auto;
+  margin-top: 60px;
+  height:250px;
+
+}
+.footer__collumn_content_copyright{
+color: white;
+}
+.footer__collumn_content_about{
+  position: absolute;
+  right: 500px;
+
+}
+.footer__collumn-heading{
+color: white;
+line-height:30px;
+ font-size:18px;
+ font-weight:bold;
+ margin-bottom: 20px;
+}
+.footer__list{
+color: white;
+list-style: none;
+padding: 0;
+}
+.footer__collumn-link{
+  line-height:30px;
+  font-size:18px;
+  font-weight:normal;
+  text-decoration: none;
+  color: white;
+}
+.footer__collumn_content_social{
+  position: absolute;
+  right: 5px;
+}
+.footer__social-icons{
+ width: 16px;
+ height: 16px;
+ margin-right: 10px;
+}
+.logo_place_footer{
+position: absolute;
+width: 183px;
+height: 35px;
+}
+.footer__author{
+ color: white;
+ position: absolute;
+ bottom: 18px;
+ left: 0;
+ line-height:25px;
+ font-size:18px;
+ font-weight:normal;
+}
