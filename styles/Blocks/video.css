@@ -4,8 +4,7 @@
 .video__iframes{
  display: flex;
  margin: 0 auto;
- width: 515px;
- height: 316px;
+ width: 900px;
  column-gap: 20px;
  position: relative;
  bottom: -80px;
